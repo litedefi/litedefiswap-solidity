@@ -1,4 +1,4 @@
-# Uniswap contracts for the Tron blockchain
+# Litedefiswap contracts for the Lite blockchain
 
 Install dependencies:
 
