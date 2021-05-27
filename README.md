@@ -1,4 +1,4 @@
-# Litedefiswap contracts for the Lite blockchain
+# LiteDeFiSwap contracts for the Lite blockchain
 
 Install dependencies:
 
